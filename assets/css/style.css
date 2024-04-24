@@ -1,0 +1,27 @@
+html {
+    background-color: #f8bbd0;
+    color: #ffff;
+}
+
+body {
+    background-color: #f8bbd0;
+    color: #ffff;
+}
+
+header{
+    background-color: #98caad;
+    color: #ffff;
+}
+
+header a{
+    color: #ffff;
+}
+.hero {
+    background-color: #ffff;
+    padding-bottom: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-right: 10px;
+}
